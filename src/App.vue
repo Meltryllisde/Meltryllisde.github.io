@@ -14,7 +14,7 @@ const publications = [
 <template>
   <div class="site-shell">
     <header class="site-header">
-      <a class="wordmark" href="#top" aria-label="Home">Inory<span>.</span></a>
+      <a class="wordmark" href="#top" aria-label="Home">Inory<span>.</span>Phieluh<span>.</span>Melt<span>.</span></a>
       <nav aria-label="Primary navigation">
         <a href="#publications">Publications</a>
         <a href="#contact">Contact</a>
